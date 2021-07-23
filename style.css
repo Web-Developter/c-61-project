@@ -1,0 +1,55 @@
+body {
+    text-align: center;
+    background: linear-gradient(#ff8888 0%, #5edacc 100%);
+    background-repeat: no-repeat;
+}
+
+h1 {
+    text-shadow: 2px 2px #020024;
+    font-size: 20px;
+    font-family: cursive;
+}
+
+#info {
+    padding: 20px;
+    font-size: 18;
+    text-align: center;
+    font-family: 'Architects Daughter', cursive;
+}
+
+img {
+    border-radius: 50%;
+    width: 100px;
+}
+
+.menu {
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+}
+
+#intro {
+    font-family: 'Architects Daughter', cursive;
+}
+
+.link {
+    color: crimson;
+    display: inline;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+}
+
+.link:hover {
+    background-color: beige;
+}
+
+#picture{
+    width: 400px;
+    height: 500px;
+}
